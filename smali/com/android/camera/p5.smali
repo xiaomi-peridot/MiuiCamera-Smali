@@ -1223,7 +1223,7 @@
 .method public static final E0(Landroid/content/Context;)Z
     .locals 6
 
-    const-string v0, "com.miui.gallery"
+    const-string v0, "com.google.android.apps.photos"
 
     const/4 v1, 0x1
 

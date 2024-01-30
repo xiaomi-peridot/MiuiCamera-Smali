@@ -13,9 +13,9 @@
 
 .field protected static final EMPTY_LIST:Ljava/util/List;
 
-.field protected static final USE_STRINGVALUE_SEPARATOR:Z = false
+.field protected static final USE_STRINGVALUE_SEPARATOR:Z
 
-.field protected static final VERBOSE_TOSTRING:Z = false
+.field protected static final VERBOSE_TOSTRING:Z
 
 
 # direct methods

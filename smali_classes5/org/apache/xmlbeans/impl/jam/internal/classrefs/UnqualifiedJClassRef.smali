@@ -9,7 +9,7 @@
 # static fields
 .field private static final PREFIX:Ljava/lang/String; = "[UnqualifiedJClassRef]"
 
-.field private static final VERBOSE:Z = false
+.field private static final VERBOSE:Z
 
 
 # instance fields

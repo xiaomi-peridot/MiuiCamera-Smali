@@ -34,7 +34,7 @@
 
 
 # static fields
-.field private static b:Z = false
+.field private static b:Z
 
 
 # instance fields

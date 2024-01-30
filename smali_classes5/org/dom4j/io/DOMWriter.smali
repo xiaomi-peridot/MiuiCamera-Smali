@@ -6,9 +6,9 @@
 # static fields
 .field private static final DEFAULT_DOM_DOCUMENT_CLASSES:[Ljava/lang/String;
 
-.field static synthetic class$org$dom4j$io$DOMWriter:Ljava/lang/Class; = null
+.field static synthetic class$org$dom4j$io$DOMWriter:Ljava/lang/Class;
 
-.field private static loggedWarning:Z = false
+.field private static loggedWarning:Z
 
 
 # instance fields

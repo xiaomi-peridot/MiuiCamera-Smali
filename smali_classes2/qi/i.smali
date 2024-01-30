@@ -12,9 +12,9 @@
 
 
 # static fields
-.field public static k:Lqi/i; = null
+.field public static k:Lqi/i;
 
-.field public static l:Z = false
+.field public static l:Z
 
 .field public static final m:Ljava/util/ArrayList;
     .annotation system Ldalvik/annotation/Signature;

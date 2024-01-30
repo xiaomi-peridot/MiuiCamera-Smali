@@ -6,7 +6,7 @@
 # static fields
 .field private static final TAG:Ljava/lang/String; = "MultiWakeupLog"
 
-.field private static isPrintLog:Z = false
+.field private static isPrintLog:Z
 
 
 # direct methods

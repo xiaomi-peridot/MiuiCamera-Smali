@@ -20,9 +20,9 @@
 
 .field private static final TWENTYFOURBITGROUP:I = 0x18
 
-.field private static base64Alphabet:[B = null
+.field private static base64Alphabet:[B
 
-.field private static final fDebug:Z = false
+.field private static final fDebug:Z
 
 .field private static lookUpBase64Alphabet:[B
 

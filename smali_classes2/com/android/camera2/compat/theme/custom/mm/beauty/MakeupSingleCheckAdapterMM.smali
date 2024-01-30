@@ -22,13 +22,13 @@
 
 .field public static final TYPE_HEADER:I = 0x1
 
-.field public static final TYPE_NORMAL:I = 0x0
+.field public static final TYPE_NORMAL:I
 
-.field public static mIsGallery:Z = false
+.field public static mIsGallery:Z
 
-.field public static mIsLaptop:Z = false
+.field public static mIsLaptop:Z
 
-.field public static mIsVertical:Z = false
+.field public static mIsVertical:Z
 
 
 # instance fields

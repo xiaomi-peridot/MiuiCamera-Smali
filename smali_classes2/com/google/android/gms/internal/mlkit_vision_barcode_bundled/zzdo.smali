@@ -6,9 +6,9 @@
 # static fields
 .field static final zza:Lcom/google/android/gms/internal/mlkit_vision_barcode_bundled/zzdo;
 
-.field public static final synthetic zzb:I = 0x0
+.field public static final synthetic zzb:I
 
-.field private static volatile zzc:Z = false
+.field private static volatile zzc:Z
 
 
 # instance fields

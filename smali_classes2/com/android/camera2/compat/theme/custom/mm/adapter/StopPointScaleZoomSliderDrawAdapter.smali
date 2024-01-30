@@ -10,7 +10,7 @@
 
 .field public static final ZOOM_VALUE_IN_GAP:F = -1.0f
 
-.field protected static mIsLandScape:Z = false
+.field protected static mIsLandScape:Z
 
 
 # instance fields

@@ -12,11 +12,11 @@
 
 
 # static fields
-.field static synthetic class$java$lang$Thread:Ljava/lang/Class; = null
+.field static synthetic class$java$lang$Thread:Ljava/lang/Class;
 
-.field static synthetic class$javax$xml$parsers$FactoryFinder:Ljava/lang/Class; = null
+.field static synthetic class$javax$xml$parsers$FactoryFinder:Ljava/lang/Class;
 
-.field private static final debug:Z = false
+.field private static final debug:Z
 
 
 # direct methods

@@ -7,7 +7,7 @@
 
 
 # static fields
-.field public static h:Z = false
+.field public static h:Z
 
 .field public static final i:I
 

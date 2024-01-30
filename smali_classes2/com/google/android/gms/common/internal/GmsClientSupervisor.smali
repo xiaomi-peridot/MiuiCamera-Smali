@@ -21,12 +21,12 @@
 
 .field private static final zzc:Ljava/lang/Object;
 
-.field private static zzd:Lcom/google/android/gms/common/internal/zzr; = null
+.field private static zzd:Lcom/google/android/gms/common/internal/zzr;
     .annotation build Landroidx/annotation/Nullable;
     .end annotation
 .end field
 
-.field private static zze:Z = false
+.field private static zze:Z
 
 
 # direct methods

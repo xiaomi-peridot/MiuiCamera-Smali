@@ -10,7 +10,7 @@
 
 
 # static fields
-.field public static l:Z = false
+.field public static l:Z
 
 .field public static m:[I
 

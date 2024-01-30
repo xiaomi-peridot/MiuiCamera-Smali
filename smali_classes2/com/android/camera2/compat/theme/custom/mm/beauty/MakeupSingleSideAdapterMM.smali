@@ -19,11 +19,11 @@
 
 .field public static final TAG:Ljava/lang/String; = "MakeupSingleSideAdapterMM"
 
-.field public static mIsGallery:Z = false
+.field public static mIsGallery:Z
 
-.field public static mIsLaptop:Z = false
+.field public static mIsLaptop:Z
 
-.field public static mIsVertical:Z = false
+.field public static mIsVertical:Z
 
 
 # instance fields

@@ -15,7 +15,7 @@
 
 
 # static fields
-.field public static volatile W:Z = false
+.field public static volatile W:Z
 
 
 # instance fields

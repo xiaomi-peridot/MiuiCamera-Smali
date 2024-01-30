@@ -65,12 +65,12 @@
     .end annotation
 .end field
 
-.field static zza:Z = false
+.field static zza:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field
 
-.field private static zzb:Z = false
+.field private static zzb:Z
 
 .field private static final zzc:Ljava/util/concurrent/atomic/AtomicBoolean;
 

@@ -8,11 +8,11 @@
 
 .field private static final SOME_TIGER_SPECIFIC_REFLECT_CLASS:Ljava/lang/String; = "java.lang.annotation.Annotation"
 
-.field static synthetic class$org$apache$xmlbeans$impl$jam$internal$TigerDelegate:Ljava/lang/Class; = null
+.field static synthetic class$org$apache$xmlbeans$impl$jam$internal$TigerDelegate:Ljava/lang/Class;
 
-.field private static m14BuildWarningDone:Z = false
+.field private static m14BuildWarningDone:Z
 
-.field private static m14RuntimeWarningDone:Z = false
+.field private static m14RuntimeWarningDone:Z
 
 
 # instance fields

@@ -258,7 +258,7 @@
 
     move-result-object v4
 
-    const-string v5, "com.miui.gallery"
+    const-string v5, "com.google.android.apps.photos"
 
     const/16 v6, 0x80
 
@@ -613,7 +613,7 @@
     goto :goto_0
 
     :sswitch_2
-    const-string v0, "com.miui.gallery"
+    const-string v0, "com.google.android.apps.photos"
 
     invoke-virtual {p0, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
 

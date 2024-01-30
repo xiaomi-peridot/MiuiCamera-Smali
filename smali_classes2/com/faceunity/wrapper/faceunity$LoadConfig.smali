@@ -17,7 +17,7 @@
 # static fields
 .field private static sLoadFUAI:Z = true
 
-.field private static sLoadedLibrary:Z = false
+.field private static sLoadedLibrary:Z
 
 
 # direct methods

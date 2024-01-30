@@ -61,7 +61,7 @@
 
 .field private static final TAG:Ljava/lang/String; = "DefaultAudioSink"
 
-.field public static failOnSpuriousAudioTimestamp:Z = false
+.field public static failOnSpuriousAudioTimestamp:Z
 
 
 # instance fields

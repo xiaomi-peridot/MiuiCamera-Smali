@@ -13,9 +13,9 @@
 
 
 # static fields
-.field static synthetic class$javax$xml$stream$FactoryFinder:Ljava/lang/Class; = null
+.field static synthetic class$javax$xml$stream$FactoryFinder:Ljava/lang/Class;
 
-.field private static debug:Z = false
+.field private static debug:Z
 
 
 # direct methods

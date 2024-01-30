@@ -6,7 +6,7 @@
 # static fields
 .field private static final COMMA:Ljava/lang/String; = ", "
 
-.field public static final MORE_LOG_ENABLE:Z = false
+.field public static final MORE_LOG_ENABLE:Z
 
 .field private static volatile sIsLogEnabled:Z
 

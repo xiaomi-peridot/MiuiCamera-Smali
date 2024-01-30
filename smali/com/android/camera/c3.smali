@@ -117,7 +117,7 @@
     invoke-direct {v1, v4, p2}, Landroid/content/Intent;-><init>(Ljava/lang/String;Landroid/net/Uri;)V
 
     :goto_0
-    const-string p2, "com.miui.gallery"
+    const-string p2, "com.google.android.apps.photos"
 
     invoke-virtual {v1, p2}, Landroid/content/Intent;->setPackage(Ljava/lang/String;)Landroid/content/Intent;
 

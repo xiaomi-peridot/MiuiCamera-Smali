@@ -17,11 +17,11 @@
 # static fields
 .field public static final Companion:Landroidx/window/embedding/SplitController$Companion;
 
-.field private static volatile globalInstance:Landroidx/window/embedding/SplitController; = null
+.field private static volatile globalInstance:Landroidx/window/embedding/SplitController;
 
 .field private static final globalLock:Ljava/util/concurrent/locks/ReentrantLock;
 
-.field public static final sDebug:Z = false
+.field public static final sDebug:Z
 
 
 # instance fields

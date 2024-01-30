@@ -19,7 +19,7 @@
 
 .field private static doFullRuntimeInheritanceCheck:Z = true
 
-.field private static volatile eagerlyParseMessageSets:Z = false
+.field private static volatile eagerlyParseMessageSets:Z
 
 .field private static volatile emptyRegistry:Lcom/google/protobuf/ExtensionRegistryLite;
 

@@ -6,7 +6,7 @@
 # static fields
 .field private static final AUDIO:Ljava/lang/String; = "audio/"
 
-.field private static final DEBUG:Z = false
+.field private static final DEBUG:Z
 
 
 # instance fields

@@ -16,9 +16,9 @@
 # static fields
 .field private static final a:Ljava/lang/String; = "PubSubAnalytics"
 
-.field private static volatile b:Lcom/ot/pubsub/PubSubTrack; = null
+.field private static volatile b:Lcom/ot/pubsub/PubSubTrack;
 
-.field private static volatile c:Z = false
+.field private static volatile c:Z
 
 
 # instance fields

@@ -4,7 +4,7 @@
 
 
 # static fields
-.field private static final DO_INTERN_QNAME:Z = false
+.field private static final DO_INTERN_QNAME:Z
 
 .field private static final XSI_NAMESPACE:Lorg/dom4j/Namespace;
 

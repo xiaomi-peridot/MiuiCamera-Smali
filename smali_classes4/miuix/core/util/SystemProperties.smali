@@ -15,17 +15,17 @@
 
 .field private static final TAG:Ljava/lang/String; = "SystemProperties"
 
-.field private static classSystemProperties:Ljava/lang/Class; = null
+.field private static classSystemProperties:Ljava/lang/Class;
 
-.field private static isSupportGet:Z = false
+.field private static isSupportGet:Z
 
-.field private static isSupportGetBoolean:Z = false
+.field private static isSupportGetBoolean:Z
 
-.field private static isSupportGetInt:Z = false
+.field private static isSupportGetInt:Z
 
-.field private static isSupportGetLong:Z = false
+.field private static isSupportGetLong:Z
 
-.field private static isSupportSet:Z = false
+.field private static isSupportSet:Z
 
 
 # direct methods

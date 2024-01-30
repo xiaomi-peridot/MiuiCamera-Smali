@@ -35,7 +35,7 @@
 
 .field private static final TAG:Ljava/lang/String; = "GlUtil"
 
-.field public static glAssertionsEnabled:Z = false
+.field public static glAssertionsEnabled:Z
 
 
 # direct methods
